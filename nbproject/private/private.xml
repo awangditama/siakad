@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/C:/xampp/htdocs/project_siakad/application/controllers/mahasiswa.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/models/data_admin.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/view_absensi.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/mahasiswa_detail_total_nilai.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/mahasiswa_nilai_kompetensi.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/mahasiswa_nilai_presensi.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/controllers/dosen.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/new_update_presensi.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/cetak_nilai.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/controllers/login.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/controllers/halaman.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/mahasiswa_detail_presensi.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/mahasiswa_absensi.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/mahasiswa_detail_absensi.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/mahasiswa_total_nilai.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/tampil_data_simultan.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/new_add_presensi.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/controllers/admin.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/presensi_absensi_dosen.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/siakad.sql</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/data_dosen.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/template/topBar.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/template/menu.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/data_lihat_nilai_kuisoner.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/data_matkul.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/add_matkul.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/view_data_presensi.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/detail_nilai_kuisoner.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/mahasiswa_kuisoner_k.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/mahasiswa_kuisoner.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/assets/css/bootstrap.min.css</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/data_lihat_nilai_kuisoner_k.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/template.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/grafik_kuisoner.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/upload_file_krs_mahasiswa.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/add_biodata_dosen.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/config/config.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/config/autoload.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/libraries/Excel_reader.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/libraries/excel_reader2.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/index.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/assets/css/slide.css</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/upload_file_mahasiswa.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/upload_file_krs_dosen.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/upload_file_login.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/upload_file_matkul.php</file>
+        <file>file:/C:/xampp/htdocs/project_siakad/application/views/update_absensi.php</file>
+    </open-files>
+</project-private>
